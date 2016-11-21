@@ -13,8 +13,9 @@ export class Hero {
     <div><label>id: </label>{{hero.id}}</div>
     <div>
       <label>label: </label>
-      <input value="{{hero.name}}" placeholder="name">
-    `
+      <input [(ngModel)]="hero.name" placeholder="name">
+    </div>
+  `
 })
 
 export class AppComponent {
