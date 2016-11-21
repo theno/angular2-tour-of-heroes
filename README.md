@@ -1,14 +1,14 @@
-# Angular2 Quickstart Example
+# Angular2 Tour of Heroes Example
 
-> This QuickStart guide demonstrates how to build and run a simple Angular
-> application.
+> The Tour of Heroes tutorial takes us through the steps of creating an
+> Angular application in TypeScript.
 >
-> -- https://angular.io/docs/ts/latest/quickstart.html
+> -- https://angular.io/docs/ts/latest/tutorial/
 
-Replay of the example.
+Replay of the tutorial.
 
 
-## Run Example-Application
+## Run Tutorial-Application
 
 ```sh
 npm install
