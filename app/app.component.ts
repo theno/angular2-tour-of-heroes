@@ -11,7 +11,9 @@ export class Hero {
     <h1>{{title}}</h1>
     <h2>{{hero.name}} details!</h2>
     <div><label>id: </label>{{hero.id}}</div>
-    <div><label>label: </label>{{hero.name}}</div>
+    <div>
+      <label>label: </label>
+      <input value="{{hero.name}}" placeholder="name">
     `
 })
 
